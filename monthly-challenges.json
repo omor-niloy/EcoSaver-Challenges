@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Nature Exploration",
+    "description": "Spend a weekend each month hiking, camping, or exploring the outdoors.",
+    "challengeKey": "monthly_challenge_1"
+  },
+  {
+    "title": "Plant a Tree",
+    "description": "Dedicate one day each month to plant a tree in your community.",
+    "challengeKey": "monthly_challenge_2"
+  },
+  {
+    "title": "Local Produce",
+    "description": "Purchase and consume only locally produced food for the entire month.",
+    "challengeKey": "monthly_challenge_3"
+  },
+  {
+    "title": "Green Transportation",
+    "description": "Opt for green transportation methods such as walking, biking, or electric vehicles for the month.",
+    "challengeKey": "monthly_challenge_4"
+  }
+]
+

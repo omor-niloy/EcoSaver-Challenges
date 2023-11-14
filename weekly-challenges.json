@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Meatless Mondays",
+    "description": "Commit to going meatless on Mondays to reduce your carbon footprint associated with meat production.",
+    "challengeKey": "weekly_challenge_1"
+  },
+  {
+    "title": "No Single-Use Plastic",
+    "description": "Avoid using single-use plastics such as straws, bags, and water bottles for the entire week.",
+    "challengeKey": "weekly_challenge_2"
+  },
+  {
+    "title": "Public Transportation",
+    "description": "Use public transportation for your commute instead of personal vehicles for the entire week.",
+    "challengeKey": "weekly_challenge_3"
+  }
+]
+

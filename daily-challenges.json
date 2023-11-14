@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Reduce Car Commute",
+    "description": "Challenge yourself to carpool, bike, or use public transportation instead of driving alone.",
+    "challengeKey": "daily_challenge_1"
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Turn off lights when not in use, unplug devices, and switch to energy-efficient appliances.",
+    "challengeKey": "daily_challenge_2"
+  },
+  {
+    "title": "Reusable Containers",
+    "description": "Use reusable containers for your lunch and snacks to reduce single-use plastic waste.",
+    "challengeKey": "daily_challenge_3"
+  },
+  {
+    "title": "Shorter Showers",
+    "description": "Limit your shower time to save water and reduce energy consumption.",
+    "challengeKey": "daily_challenge_4"
+  }
+]
+
